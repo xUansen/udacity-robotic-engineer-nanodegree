@@ -1,0 +1,2 @@
+my_bot:udacity_bot
+-DCATKIN_DEVEL_PREFIX=/home/nvidia/workspace/RoboND-WhereAmI/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/workspace/RoboND-WhereAmI/catkin_ws/install -G Unix Makefiles
